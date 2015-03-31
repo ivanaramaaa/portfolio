@@ -1,4 +1,37 @@
 /*
-  Place all the styles related to the matching controller here.
-  They will automatically be included in application.css.
+Place all the styles related to the matching controller here.
+They will automatically be included in application.css.
 */
+/* header */
+/*header {
+
+}
+
+nav ul {
+	list-style-type: none; /* removes default bullets */
+
+/*}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+
+}
+
+.main {
+	background-image: url(<%= asset_path 'background_main.jpg' %>) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}*/
+
+
+
+/* mobile styles */
+.main {
+	margin-top: 300px;
+}
+
