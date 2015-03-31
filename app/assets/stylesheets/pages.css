@@ -29,9 +29,10 @@ nav a {
 }*/
 
 
+/* padding required for Bootstrap nav-bar*/
+body {
+	padding-top: 70px
+}
 
 /* mobile styles */
-.main {
-	margin-top: 300px;
-}
 
